@@ -1,2 +1,10 @@
 # Learning-GraphQL-and-Relay
-my humble intent to get fresh the code of this book "Learning GraphQL and Relay" by Samer Buna
+
+  - MongoDB need to be installed in your computer
+
+ To get it running locally:
+
+    Clone this repo
+    - "npm install" to install all req'd dependencies
+    - Open the Command Prompt (Windows) and run "mongod"
+    - "npm start" to start the code
